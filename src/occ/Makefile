@@ -56,6 +56,7 @@ D += -DOCC_FIRMWARE=1 \
      -DSIMICS_MAGIC_PANIC=1 \
      -DOCC=1 \
      -DNONCACHEABLE_SUPPORT=1 \
+     -_BIG_ENDIAN=1 \
      -DUSE_SSX_APP_CFG_H=1     
 
 # TODO: Needs section comment on default values for compile defs and info on what defs do
